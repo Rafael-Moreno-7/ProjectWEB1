@@ -1,0 +1,154 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 100%;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 6.700rem;
+  color:#3562c3;
+  font-weight: normal;
+}
+.bottom-cloud{
+  position: absolute; 
+  left: 100px;
+  bottom: 450px;
+}
+.top-cloud{
+  position: absolute;
+  right: 80px;
+  top: 170px;
+}
+.web-designer{
+  color: #3562c3;
+}
+.mountain{
+  width: 40%;
+}
+.img-me{
+  border-radius:200px;
+   height: 180px;
+    width: 180px;
+     object-position: center; 
+     object-fit: cover;
+     background-color: rgb(243, 242, 241);
+    
+ }
+.intro{
+  width: 30%;
+  margin: auto;
+}
+p{
+  font-size: 1em;
+  color: #545454;
+  line-height: 2;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #0039b3;
+  font-size: 2.8rem;
+}
+hr{
+  border-style: dotted;
+  border-top: none;
+  border-width: 5px;
+  border-color: #d9dada;
+  width: 3em;
+  margin: 100px auto;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #3562c3;
+}
+.top-container{
+  background-color: #a6c0da;
+ padding-top: 100px;
+ position: relative;
+}
+.middle-container{
+  background-color: #fff;
+  margin: 100px 0;
+}
+.bottom-container{ 
+  background-color:#a6c0da;
+  padding: 3em;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto;
+  text-align: left;
+  
+}
+.computer-code{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.programming-languages{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.freelance{
+ margin: 2.8em auto 2em;
+}
+.contact-message{
+  width: 40%;
+ margin: auto auto 1.4em auto;
+}
+
+.btn1{
+  padding: 1.4em 4em;
+  border-radius: .3em;
+  border: none;
+  background-color: #3562c3 ;
+  margin: 2em auto 0;
+  cursor: pointer;
+  position: relative;
+}
+.btn1:hover{
+opacity: .8;
+}
+.btn1:active{
+  opacity: .6;
+  }
+.btn2{
+  text-decoration: none;
+  color: white;
+  font-size: 1.2em;
+}
+.footer-link{
+  color: #5176c7;
+  text-decoration: none;
+  font-size: .9em;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+.footer-link-xtra{
+  margin: auto 2.5em
+}
+.p-bottom-container{
+  margin: 16px auto 0;
+  color: #5176c7;
+  font-size: .7rem;
+  padding-top: 1.4em;
+}
+.a-bottom-container:hover{
+  border-bottom:  1px solid white;
+  color: white;
+}
+.a-bottom-container{
+  color: #5176c7;
+  text-decoration: none;
+  border-bottom: 1px solid #5176c7;
+}
+
+.footer-link:hover{
+  opacity: .8;
+  color: white;
+  }
+  .footer-link:active{
+    opacity: .6;
+    }
